@@ -95,3 +95,6 @@ DOMAIN,sora-cdn.oaistatic.com
 
 # > Zed
 DOMAIN-SUFFIX,zed.dev
+
+# > Ollama
+DOMAIN-SUFFIX,ollama.com
